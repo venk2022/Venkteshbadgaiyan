@@ -16,17 +16,17 @@
 
 ## 🧳 Projects
 
-### 💬 Chatzy – AI Chatbot App [🔗](#)
+### 💬 Chatzy – AI Chatbot App [🔗](https://github.com/venk2022/Chatzy-AI-Assistant-App)
 - Built an intelligent chatbot application using **Flutter**, **Firebase**, **Firestore**, and **Gemini API** integration.
 - Implemented real-time chat functionality, user authentication, and conversation history storage.
 - Features include multi-user support, persistent chat sessions, and responsive UI design.
 
-### 🚑 NIJAAT App (Second Rank at IEEE ICECCT “WATT Now” 2024) [🔗](#)
+### 🚑 NIJAAT App (Second Rank at IEEE ICECCT “WATT Now” 2024) [🔗](https://github.com/venk2022/Nijaat-App)
 - Developed a comprehensive platform connecting individuals with addiction to rehabilitation centers.
 - Implemented user features including login, feedback forms, and appointment scheduling using **Flutter** and **Firebase**.
 - Integrated an admin dashboard for managing appointments, user authentication, and reviews.
 
-### 📊 Sentiment Analysis Web App [🔗](#)
+### 📊 Sentiment Analysis Web App [🔗](https://github.com/venk2022/Sentimental-Analysis)
 - Developed a web application using **Flask**, **NLTK/VADER**, **HTML/CSS**, and **Bootstrap** for sentiment classification.
 - Enabled real-time prediction and classification of user-input text into *Positive*, *Negative*, or *Neutral* sentiment.
 - Deployed the application on **Render** with a clean UI and responsive layout for live use.
@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <b>👇 Explore my top projects below or check out my <a href="https://github.com/venkteshbadgaiyan?tab=repositories">GitHub repositories</a> 👇</b>
+  <b>👇 Explore my top projects below or check out my <a href="https://github.com/venk2022?tab=repositories">GitHub repositories</a> 👇</b>
 </p>
