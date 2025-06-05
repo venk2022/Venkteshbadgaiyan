@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast |<br/>
-  🎓 B.Tech (IT) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
+  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 LeetCode 886 Global Rank<br/>
+  🎓 B.Tech (CSE) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
   <br/>
-  🌐 <a href="https://venktesh-portfolio.vercel.app/">Portfolio</a> • 
   📧 <a href="mailto:venkteshbadgaiyan@gmail.com">Email</a> • 
   💼 <a href="https://www.linkedin.com/in/venkteshbadgaiyan/">LinkedIn</a>
 </p>
@@ -15,26 +14,22 @@
 
 ---
 
-## 🧳 Work Experience
+## 🧳 Projects
 
-*📱 MedWizz App*  
-Flutter Developer & Project Lead  
-📍 Remote | 🗓 2024 – Present  
-- Developed a doctor-patient appointment booking app with WhatsApp bot integration.
-- Integrated Google Sign-In, Firebase Auth, and speech-to-text functionality.
-- Added chatbot logic using Google Gemini API and Dialogflow.
+### 💬 Chatzy – AI Chatbot App [🔗](#)
+- Built an intelligent chatbot application using **Flutter**, **Firebase**, **Firestore**, and **Gemini API** integration.
+- Implemented real-time chat functionality, user authentication, and conversation history storage.
+- Features include multi-user support, persistent chat sessions, and responsive UI design.
 
-*🚉 Railway Station Navigation App*  
-Flutter Developer  
-📍 On-Campus | 🗓 2024  
-- Built an app to guide users through railway facilities like restrooms, food stalls, and waiting areas.
-- Integrated map navigation and UI optimization for large stations.
+### 🚑 NIJAAT App (Second Rank at IEEE ICECCT “WATT Now” 2024) [🔗](#)
+- Developed a comprehensive platform connecting individuals with addiction to rehabilitation centers.
+- Implemented user features including login, feedback forms, and appointment scheduling using **Flutter** and **Firebase**.
+- Integrated an admin dashboard for managing appointments, user authentication, and reviews.
 
-*💧 Jal Samiksha (JJM Project)*  
-Full Stack Flutter Developer  
-📍 Government Project | 🗓 2024  
-- Created a mobile-based O&M tool for asset/inventory/finance under Jal Jeevan Mission.
-- Multiple user roles (User, Gram Panchayat, ADO) with secured login and modular dashboards.
+### 📊 Sentiment Analysis Web App [🔗](#)
+- Developed a web application using **Flask**, **NLTK/VADER**, **HTML/CSS**, and **Bootstrap** for sentiment classification.
+- Enabled real-time prediction and classification of user-input text into *Positive*, *Negative*, or *Neutral* sentiment.
+- Deployed the application on **Render** with a clean UI and responsive layout for live use.
 
 ---
 
@@ -44,8 +39,8 @@ Full Stack Flutter Developer
   <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
   <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" title="REST API" />
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" />
 </p>
@@ -65,7 +60,7 @@ Full Stack Flutter Developer
 
 <p align="center">
   <a href="https://leetcode.com/venkteshbadgaiyan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Global%20Rank%20930-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Global%20Rank%20886-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://github.com/venkteshbadgaiyan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-300%2B_commits-black?style=for-the-badge&logo=GitHub&logoColor=white" />
@@ -76,11 +71,13 @@ Full Stack Flutter Developer
 
 ## 🏆 Highlights
 
-- 🥇 1st – TECHNOVA Engineering Innovations Expo 2024 (TLE_Smashers)
-- 🥇 1st – Ideathon Winner at LCIT Bilaspur
-- 🥈 2nd – Research Paper on Video-Language Models (Vid-LLMs)
-- ✅ Solved 1000+ DSA Problems
-- 📱 Built 5+ apps with advanced Flutter & AI capabilities
+- 🥇 **Awarded 1st Prize in Ideathon (TechNova) at LCIT, Bilaspur**
+- 🥈 **Secured 2nd Rank at IEEE ICECCT 2024 (University-level Hackathon)**
+- 🥉 **2nd Runner-Up – Code Relay (Inter-College Coding Competition)**
+- 🌍 **Global Rank 886 – Leetcode BiWeekly Contest 139** [🔗](https://leetcode.com/contest/biweekly-contest-139/ranking/)
+- 🌐 **Global Rank 1095 – Leetcode Weekly Contest 413** [🔗](https://leetcode.com/contest/weekly-contest-413/ranking/)
+- 🎯 **Finalist – Ideathon 2024 at GGU, Bilaspur**
+- 💡 **Built 5+ Full-Stack Flutter Apps with AI/ML Integration**
 
 ---
 
