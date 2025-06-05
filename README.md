@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 LeetCode 930 Global Rank<br/>
+  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast |<br/>
   🎓 B.Tech (IT) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
   <br/>
   🌐 <a href="https://venktesh-portfolio.vercel.app/">Portfolio</a> • 
