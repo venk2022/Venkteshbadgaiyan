@@ -49,14 +49,7 @@
 
 ## 🧩 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/venktesh_07_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Global%20Rank%20886-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-  <a href="https://github.com/venk2022" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-300%2B_commits-black?style=for-the-badge&logo=GitHub&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://leetcode.com/u/venktesh_07_/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-venktesh_07_-orange?style=for-the-badge&logo=LeetCode&logoColor=white" /> </a> <a href="https://github.com/venk2022" target="_blank"> <img src="https://img.shields.io/badge/GitHub-300%2B_commits-black?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> </p>
 
 ---
 
