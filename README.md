@@ -5,7 +5,7 @@
   🎓 B.Tech (CSE) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
   <br/>
   📧 <a href="mailto:venkteshbadgaiyan@gmail.com">Email</a> • 
-  💼 <a href="www.linkedin.com/in/venktesh-badgaiyan-935a19263">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/venkteshbadgaiyan/">LinkedIn</a>
 </p>
 
 <p align="center">
