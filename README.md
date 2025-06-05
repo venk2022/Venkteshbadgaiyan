@@ -102,7 +102,7 @@
 
 ---
 
-## 🔗 Let's Connect 
+## 🔗 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venktesh-badgaiyan-935a19263"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
