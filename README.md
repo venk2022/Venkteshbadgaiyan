@@ -68,7 +68,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkteshbadgaiyan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/venktesh-badgaiyan-935a19263"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:venkteshbadgaiyan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://github.com/venkteshbadgaiyan"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/></a>
   <a href="https://leetcode.com/venkteshbadgaiyan/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
