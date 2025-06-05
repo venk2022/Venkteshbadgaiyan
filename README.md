@@ -45,7 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venk2022&theme=radical&hide_border=true" width="47%" />
 </p>
 
-
 ---
 
 ## 🧩 Coding Profiles
@@ -62,7 +61,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🏆 Highlights
@@ -74,6 +72,15 @@
 - 🌐 **Global Rank 1095 – Leetcode Weekly Contest 413** [🔗](https://leetcode.com/contest/weekly-contest-413/ranking/)
 - 🎯 **Finalist – Ideathon 2024 at GGU, Bilaspur**
 - 💡 **Built 5+ Flutter Apps with AI Integration**
+
+---
+
+## 🌱 Community Contribution
+
+- **App Development Team Member, Google Developer Student Clubs (GDSC)** – Dec 2023 - Dec 2024
+  - Led a team of developers, providing technical guidance and coordination within the club.
+  - Organized team sessions to foster collaboration and enhance skill development.
+  - Designed and delivered comprehensive Kotlin training for 20+ members, significantly boosting their programming efficiency.
 
 ---
 
