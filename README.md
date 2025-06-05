@@ -50,7 +50,10 @@
 
 ## ⚙ Tech Stack
 
-<p align="center"> <!-- Programming Languages --> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" /> <img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" /> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart" /> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" /> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" /> <!-- Frameworks & Libraries --> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" /> <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React (Basic)" /> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" title="Flask" /> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow" /> <!-- Databases --> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" title="MySQL" /> <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firestore" /> <!-- Tools --> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio" /> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" /> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA" /> </p>
+<p align="center"> <!-- Programming Languages --> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" /> <img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" /> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart" /> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" /> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" /> <!-- Frameworks & Libraries --> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" /> <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React (Basic)" /> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" title="Flask" /> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow" /> <!-- Databases --> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" title="MySQL" /> <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firestore" /> <!-- Tools --> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio" /> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" /> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA" />
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -99,7 +102,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Let's Connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venktesh-badgaiyan-935a19263"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
