@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 LeetCode 886 Global Rank<br/>
+  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast |<br/>
   🎓 B.Tech (CSE) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
   <br/>
   📧 <a href="mailto:venkteshbadgaiyan@gmail.com">Email</a> • 
-  💼 <a href="https://www.linkedin.com/in/venkteshbadgaiyan/">LinkedIn</a>
+  💼 <a href="www.linkedin.com/in/venktesh-badgaiyan-935a19263">LinkedIn</a>
 </p>
 
 <p align="center">
