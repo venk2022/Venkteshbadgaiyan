@@ -32,7 +32,7 @@ can you also make the whole file some dynamic
 
 ## 🧳 Projects
 
-### 💬 Chatzy – AI Chatbot App [🔗](https://github.com/venk2022/Chatzy-AI-Assistant-App)
+### 💬 [Chatzy – AI Chatbot App] [🔗](https://github.com/venk2022/Chatzy-AI-Assistant-App)
 - Built an intelligent chatbot application using **Flutter**, **Firebase**, **Firestore**, and **Gemini API** integration.
 - Implemented real-time chat functionality, user authentication, and conversation history storage.
 - Features include multi-user support, persistent chat sessions, and responsive UI design.
