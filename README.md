@@ -73,7 +73,7 @@
 - 🌍 **Global Rank 886 – Leetcode BiWeekly Contest 139** [🔗](https://leetcode.com/contest/biweekly-contest-139/ranking/)
 - 🌐 **Global Rank 1095 – Leetcode Weekly Contest 413** [🔗](https://leetcode.com/contest/weekly-contest-413/ranking/)
 - 🎯 **Finalist – Ideathon 2024 at GGU, Bilaspur**
-- 💡 **Built 5+ Full-Stack Flutter Apps with AI/ML Integration**
+- 💡 **Built 5+ Flutter Apps with AI Integration**
 
 ---
 
