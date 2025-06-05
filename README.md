@@ -1,4 +1,3 @@
-can you also make the whole file some dynamic 
 <h1 align="center">👋 Hi there, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
