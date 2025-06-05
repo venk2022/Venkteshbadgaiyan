@@ -1,16 +1,31 @@
-<h1 align="center">👋 Hi, I'm Venktesh Badgaiyan</h1>
+<h1 align="center">👋 Hi there, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast |<br/>
-  🎓 B.Tech (CSE) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
-  <br/>
-  📧 <a href="mailto:venkteshbadgaiyan@gmail.com">Email</a> • 
-  💼 <a href="https://www.linkedin.com/in/venktesh-badgaiyan-935a19263/">LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;AI+Integration+Enthusiast;Problem+Solver;Tech+Community+Contributor;Open+Source+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkteshbadgaiyan&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 Problem Solver | 🌐 Community Contributor <br/>
+  🎓 B.Tech in Computer Science Engineering (2026)<br/>
+  🏫 Government Engineering College, Bilaspur, Chhattisgarh, India
 </p>
+
+<p align="center">
+  <a href="mailto:venkteshbadgaiyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/venktesh-badgaiyan-935a19263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/venk2022" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-venk2022-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkteshbadgaiyan&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
+
 
 ---
 
