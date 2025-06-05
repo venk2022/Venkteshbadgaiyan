@@ -2,7 +2,7 @@ can you also make the whole file some dynamic
 <h1 align="center">👋 Hi there, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;AI+Integration+Enthusiast;Problem+Solver;Tech+Community+Contributor;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;AI+Integration+Enthusiast;Problem+Solver;Tech+Community+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
