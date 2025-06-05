@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Venktesh Badgaiyan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Flutter+Developer;AI+Integration+Enthusiast;Problem+Solver;Tech+Community+Contributor;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Flutter+Developer;AI+Integration+Enthusiast;Problem+Solver;Tech+Community+Contributor;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 Problem Solver <br/>
+  🚀 Passionate Flutter Developer | 💡 AI Integration Enthusiast | 🧠 Problem Solver | Tech Community Contributor |  <br/>
   🎓 B.Tech in CSE (2026) @ GEC Bilaspur, Chhattisgarh, India
 </p>
 
